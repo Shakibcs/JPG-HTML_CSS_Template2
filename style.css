@@ -1,0 +1,58 @@
+*{margin:0;padding:0; }
+body{background:url(images/background.png) repeat fixed 0 0;font-family:arial;font-style:italic;font-size:14px;line-height:20px;}
+h1,h2,h3,h4,h5,h6{font-weight:normal;margin-bottom:15px;}
+a{color:#318CB4;}
+a:hover{text-decoration:none;}
+
+.structure{width:960px;margin:0 auto;display:block;}
+.floatleft{float:left}
+.floatright{float:right}
+.fix{overflow:hidden;}
+
+.header_area{}
+.header{}
+.logo{margin:25px 0;}
+.mainmenu{margin-top:37px;}
+.mainmenu ul{margin:0;padding:0;list-style:none;}
+.mainmenu ul li{float:left;margin-right:10px;}
+.mainmenu ul li a{display:block;padding:5px 10px;text-decoration:none;font-weight:bold;text-transform:uppercase;color:#000;}
+.mainmenu ul li a:hover{background:#000;color:#fff;border-radius:5px;}
+.slider_area{margin-bottom:50px;}
+.slider{border:1px solid #ddd; border-radius:5px;}
+.slider_image{margin:5px;background:url(images/slider_background.png) repeat;padding: 10px;}
+.slider_image img{background:#fff;padding:5px;width:924px;}
+.promo_area{margin-bottom:50px;}
+.promo{}
+.single_promo {	width: 286px;margin-right: 50px;}
+.last_column{margin-right:0;}
+.quote_area{margin-bottom:30px;}
+.quote{background:#fff;border-radius:5px;padding:5px;border:1px solid #ddd;font-size:25px;}
+.quote_left_text{}
+.quote_left_text p{padding:10px;}
+.quote_right_link p{padding:10px;float:left;}
+.quote_right_link a {
+	background: url(images/quote_background.png) repeat;
+	border-radius: 5px;
+	padding: 10px;
+	display: block;
+	float: left;
+	text-shadow: 0 1px 0 #cccccc;
+	color:#000;
+}
+.quote_right_link{}
+.quote_bottom_area{margin-bottom:30px;}
+.quote_bottom_left {width: 660px;margin-right: 20px;}
+.quote_bottom_right{width:273px;}
+.promo_bottom_area{margin-bottom:30px;}
+.promo_bottom{}
+.single_promo_bottom{border:1px solid #ddd;border-radius:5px;margin-right:30px;width: 298px;}
+.last_image{margin-right:0;}
+.single_promo_bottom_image{background:url(images/footer_background.png) repeat;padding:10px;margin:5px;}
+.single_promo_bottom_image img{background:#fff;padding:5px;width: 265px;}
+.footer_area{background:url(images/slider_background.png) repeat;padding: 5px 0;}
+.footer{}
+.footer_copyright{font-size:12px;color:#666;padding:10px;}
+.footer_social_profiles{}
+.social_profiles{background:#fff;border:1px solid #ddd;border-radius:5px;padding:5px;margin-top: 5px;}
+.social_profiles img{margin: 5px 8px 0px 8px;}
+
